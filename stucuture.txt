@@ -1,0 +1,12 @@
+/app
+  /about           # Page À propos
+  /tours           # Liste de tous les packages
+    /[slug]        # Page dynamique pour chaque tour (ex: /tours/gorilla-trekking)
+  /services        # Location de voiture, transferts, etc.
+  /gallery         # Galerie photos interactive
+  /contact         # Formulaire et Google Maps
+/components
+  /ui              # Boutons, Inputs, Cartes
+  /shared          # Navbar, Footer, WhatsApp Button
+  /home            # Hero Section, Featured Tours
+/lib               # Configuration du CMS et utilitaires SEO
